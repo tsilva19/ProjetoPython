@@ -51,3 +51,14 @@ print(var)
 var = 2 ** 63
 print("2 Elevado a 63:")
 print(var)
+
+# um milhao em python
+var = 1_000_000_000
+print("o valor de Um Milhão no Python:")
+print(var)
+
+# um milhao em python
+var = 1_000_000_000
+print("o valor de Um Milhão no Python:")
+print(var)
+
